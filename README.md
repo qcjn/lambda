@@ -1,2 +1,0 @@
-# lambda
-Created with CodeSandbox
